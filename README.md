@@ -38,6 +38,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 Describe any challenges encountered while building the app.
+
 One challenge I encountered while building the app was checking that my outlets were connected to my view controller, since I sometimes recieved some errors. Also, a challenge I encountered while building the app was adding the logic to the app, due to not being familiar with some of the commands and methods that were being used in order to get the total amount. Another challenge I encountered while building the app was trying to implement a tip slider that adjusts the tip percentage, which I am still curious about. Overall my experience while building the app was great.
 
 ## License
